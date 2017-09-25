@@ -28,7 +28,7 @@
 
 > Arrange transportation (car rental that fits 5 people + suitcases) 
 
-[Car Rental Information](https://github.com/jdez82/tripplanning/blob/master/Screenshots/CarRental.png)
+[Car Rental Information](https://github.com/jdez82/trip-planning/blob/master/Screenshots/CarRental.png)
 
 
  
