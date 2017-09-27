@@ -16,13 +16,13 @@
 * Flight Departure 
     * Air Company :  **Southwest**
 
-* Air class : Regular
+* Air class : **Regular**
 
-* Getting there cost per person : $161
+* Getting there cost per person : **$161**
 
-* Leaving cost per person: $259
+* Leaving cost per person: **$259**
 
-* Leaving LAX airport : 7:40PM - 1:10AM 
+* Leaving LAX airport : **7:40PM - 1:10AM** 
 
 ## Sprint 2 
 
@@ -32,10 +32,10 @@
 
 
  
-* Car rental company : ** Enterprise **
+* Car rental company : **Enterprise**
     * Pick-up/Drop-off located at LAX airport
 * Cost of car rental per day : **$58/Day - $309 Total** 
-* Estimate cost of gas in town (** $2.83 per gallon **) : ** 24 MPG **
+* Estimate cost of gas in town (**$2.83 per gallon**) : **24 MPG**
 
 > Arrange Hotel (5 people)
 
@@ -65,9 +65,9 @@ Plan parking around LA..
 **1:15pm - 3:00pm** 
 * Griffith Observatory 
 * Where to park: **Griffith Observatory**
-        * 2800 East Observatory Road
-        * Los Angeles, CA 90027
-	    * How much it is to park:** $4.00 per hour **
+	* 2800 East Observatory Road
+	* Los Angeles, CA 90027
+	* How much it is to park: **$4.00 per hour**
 
 **Shopping around LA**
 * **3:30pm - 5:30pm** 
