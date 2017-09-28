@@ -64,10 +64,10 @@ Plan parking around LA
 
 **1:15pm - 3:00pm** 
 * Griffith Observatory 
-* Where to park: **Griffith Observatory**
-        * 2800 East Observatory Road
-        * Los Angeles, CA 90027
-	    * How much it is to park:**$4.00 per hour**
+	* Where to park: **Griffith Observatory**
+	* 2800 East Observatory Road
+	* Los Angeles, CA 90027
+		* How much it is to park:**$4.00 per hour**
 
 **Shopping around LA**
 * 3:30pm - 5:30pm 
@@ -95,9 +95,9 @@ Check in to hotel:
 
 
 * Where to park: 
-	*Weekend: **$3 an hour/$12 max per entry**
-	*Weekday: **$2 per hour/$10 max per entry**
-	*How much to spend per person: **$30 for rides and $100 for shopping**
+	* Weekend: **$3 an hour/$12 max per entry**
+	* Weekday: **$2 per hour/$10 max per entry**	
+	* How much to spend per person: **$30 for rides and $100 for shopping**
 
 **3:00pm-4:30pm**
 	Go back to hotel to shower and rest
