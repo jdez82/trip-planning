@@ -72,8 +72,8 @@ Plan parking around LA
 **Shopping around LA**
 * 3:30pm - 5:30pm 
 *   Where to park: 
-			* 636 Maple Ave, Los Angeles CA
-			* LADOT Facility No: 758
+	* 636 Maple Ave, Los Angeles CA
+	* LADOT Facility No: 758
  How much it is to park: **$3.00 per hour**
 How much to spend per person: **$150.00** 
 Check in to hotel: 
@@ -95,9 +95,9 @@ Check in to hotel:
 
 
 * Where to park: 
-                 Weekend: **$3 an hour/$12 max per entry**
-				 Weekday: **$2 per hour/$10 max per entry**
-	* How much to spend per person: **$30 for rides and $100 for shopping**
+	*Weekend: **$3 an hour/$12 max per entry**
+	*Weekday: **$2 per hour/$10 max per entry**
+	*How much to spend per person: **$30 for rides and $100 for shopping**
 
 **3:00pm-4:30pm**
 	Go back to hotel to shower and rest
@@ -152,7 +152,7 @@ Check in to hotel:
 
 **5:00 - 7:00** 
 * Dinner at Nickel Diner **$20** per person
-        * 524 SOUTH MAIN STREET LOS ANGELES, CA, 90013 
+	* 524 SOUTH MAIN STREET LOS ANGELES, CA, 90013 
 
 ### Day 5
 
